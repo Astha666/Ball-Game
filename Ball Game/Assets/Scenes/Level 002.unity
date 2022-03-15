@@ -597,7 +597,7 @@ MonoBehaviour:
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"BallClickManager","value":{"$content":3,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"GameManager","value":{"$content":4,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Next
-      Level","value":{"$content":"Level 002","$type":"System.String"},"typeHandle":{"Identification":"System.String,
+      Level","value":{"$content":"Main Menu","$type":"System.String"},"typeHandle":{"Identification":"System.String,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 272508773}
@@ -1056,7 +1056,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1080480888}
   m_LocalRotation: {x: -0, y: -0, z: -0.44188473, w: 0.8970718}
-  m_LocalPosition: {x: -2.12, y: -1.22, z: 0}
+  m_LocalPosition: {x: -6.69, y: 0.74, z: 0}
   m_LocalScale: {x: 5.67, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
